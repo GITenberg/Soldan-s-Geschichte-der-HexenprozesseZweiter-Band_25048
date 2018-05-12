@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '28368'
     url: http://www.gutenberg.org/2009/agents/28368
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25048#Soldan-s-Geschichte-der-HexenprozesseZweiter-Band
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2008-04-11'
 gutenberg_type: Text
